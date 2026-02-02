@@ -12,13 +12,12 @@ Our project implements the car ignition and headlight control system of a Driver
 Our project also includes an automatic headlight control system that mimics how headlights work in modern vehicles. The driver can manually turn the headlights ON or OFF, or select an AUTO mode where the system uses a light sensor to decide when the headlights should be on. In AUTO mode, the headlights turn on when it gets dark and turn off when it becomes bright, with short delays to prevent flickering during quick light changes. The headlights always turn off when the engine is off. Additionally, a manual high-beam and low-beam switch is implemented using extra LEDs, where low-beam is shown with one LED per headlight and high-beam is shown with two LEDs per headlight. Overall, this system demonstrates realistic vehicle behavior while focusing on safety, reliability, and clear feedback for both the driver and passenger of the driver’s ed vehicle.
 
 **Starting Repository**
-This project was developed starting from our Project 1 repository. The ignition subsystem was
 
-modified to allow multiple start attempts, keep the engine running even if seatbelts are
-
+We developed this project from our Project 1 repository. The Ignition Subsystem was
+modified to allow for multiple start attempts, keep the engine running even if seatbelts are
 unfastened or passengers exit, and allow the engine to be stopped by pressing the ignition button
-
 again. Automatic/Manual headlight control was then added as part of Project 2.
+
 **Test Cases for our Ignition Subsystem**
 
 | Test Case | Driver Weight | Driver Seatbelt | Passenger Weight | Passenger Seatbelt | Green LED | Blue LED | Buzzer | Output |
