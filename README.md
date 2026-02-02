@@ -26,8 +26,8 @@ again. Automatic/Manual headlight control was then added as part of Project 2.
 | 2 | Pressed | Not pressed | Not pressed | Not pressed | OFF | OFF | ON | “Welcome to the enhanced alarm system model 218-W25” “Ignition Prohibited” “driver seatbelt not on” “passenger seat not occupied” “passenger seatbelt not on” “Please ensure that both seatbelts are fastened and both seats are occupied before starting the engine” |
 | 3 | Pressed | Not pressed | Pressed | Not pressed | OFF | OFF | ON | “Welcome to the enhanced alarm system model 218-W25” “Ignition Prohibited” “driver seatbelt not on” “passenger seatbelt not on” “Please ensure that both seatbelts are fastened and both seats are occupied before starting the engine” |
 | 4 | Pressed | Pressed | Not pressed | Not pressed | OFF | OFF | ON | “Welcome to the enhanced alarm system model 218-W25” “Ignition Prohibited” “passenger seat not occupied” “passenger seatbelt not on” “Please ensure that both seatbelts are fastened and both seats are occupied before starting the engine” |
-| 7 | Not pressed | Not pressed | Pressed | Pressed | OFF | OFF | ON | “Ignition Prohibited” “driver seat not occupied” “driver seatbelt not on” “Please ensure that both seatbelts are fastened and both seats are occupied before starting the engine” |
-| 8 | Pressed | Pressed | Pressed | Pressed | ON | ON | OFF | “Welcome to the enhanced alarm system model 218-W25” “Engine Started” |
+| 5 | Not pressed | Not pressed | Pressed | Pressed | OFF | OFF | ON | “Ignition Prohibited” “driver seat not occupied” “driver seatbelt not on” “Please ensure that both seatbelts are fastened and both seats are occupied before starting the engine” |
+| 6 | Pressed | Pressed | Pressed | Pressed | ON | ON | OFF | “Welcome to the enhanced alarm system model 218-W25” “Engine Started” |
 
 **Table1: Ignition Subsystem Test Cases**
 
